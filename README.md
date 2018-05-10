@@ -1,6 +1,7 @@
 # prog0
 Prints authors name, class info major and minor to the screen. 
 
+Using C++ the following program is processed as: 
 1. On the first line, write your full name: First Name Middle Initial Last Name e.g. John L Smith 
 2. On the second line, write 'C.S.1428.?' and replace the ? with your lecture section number
 3. On the third line, write 'Lab Section: ?' and replace ? with your lab section number
@@ -9,3 +10,5 @@ Prints authors name, class info major and minor to the screen.
 6. On the sixth line, write 'I am majoring in ? with a minor ?.' and replace the ? with your major and minor respectively 
 
 *Note: you can replace the word minor with specialization or concentration .md
+
+CodeBlocks was used to compile and run the following program.
